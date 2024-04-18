@@ -1,0 +1,4 @@
+1. Ingresas al index
+2. Luego selecionas un opcion que requieras paara tu uso (exiten opciones con sublistas).
+3. Si se hace click en el logo de la institucion o universidad, la barra lateral se esconde mostrando solo los iconos.
+4. Se puede poner el modo oscuro, o claro con la ultima opcion.

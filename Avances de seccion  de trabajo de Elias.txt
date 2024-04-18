@@ -1,0 +1,4 @@
+
+1. En esta parte se avanzo parte del index donde se muestra como el inicio de la pagina web. Esto es considerado como una version de demostracion, ya que se empleara mas actualizaciones mas adelante.
+2. Se participo en la creacion de la barra lateral como menu que contiene sub-menus. En esto se empleo CSS, Javascript y Html.
+3.link de git: https://github.com/NobleSi6/proy_psicopedagogia.git
